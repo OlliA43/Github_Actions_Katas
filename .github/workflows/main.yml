@@ -18,6 +18,6 @@ jobs:
         run: echo Hello World!
 
       - name: rnu a multi-line script
-          run: |
-            echo Add other actions
-            echo to build and test your project
+        run: |
+          echo Add other actions
+          echo to build and test your project
